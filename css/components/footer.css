@@ -1,0 +1,30 @@
+.footer {
+  background-color: #685FF6;
+  /* background-size: cover; */
+  height: 100px;
+  margin-top: 40px;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.list-inline {
+  display: inline-block;
+  list-style: none;
+  padding-left: 0px;
+  margin: 20px 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  /* padding: 0px 40px; */
+  margin: 20px 10px;
+}
+.fab {
+  font-size: 40px;
+  color: #3d33f4;
+}
+
+.fab:hover{
+  color: #F0EFFF;
+}

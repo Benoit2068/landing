@@ -1,0 +1,9 @@
+.banner {
+background-image: url("../image/lac.jpg");
+background-size: cover;
+background-position: center;
+color: white;
+/* padding: 120px 0; */
+/* height: 400px; */
+padding: 200px 0;
+}
